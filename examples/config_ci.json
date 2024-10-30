@@ -82,5 +82,8 @@
         "vs_demo_4_weekly",
         "docking_rescoring_weekly",
         "run_diffdock_weekly"
+    ],
+    "skip_schema_generation": [
+        "openfold"
     ]
 }
